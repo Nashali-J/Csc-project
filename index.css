@@ -1,10 +1,5 @@
-h1 {
+.content {
     text-align: center;
-    flex: content;
-}
-
-p {
-    text-align: center;;
 }
 
 ol {
